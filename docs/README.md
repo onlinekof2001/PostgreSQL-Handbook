@@ -8,6 +8,7 @@
 docs/
 ├── README.md                 # 顶部目录树与简介
 ├── 01-architecture.md        # 一、宏观架构层
+├── 01-database-cluster.md    # 1.1 数据库集簇专题
 ├── 02-logical-storage.md     # 二、逻辑存储结构
 ├── 03-physical-storage.md    # 三、物理存储结构
 ├── 04-core-mechanisms.md     # 四、核心机制
@@ -20,6 +21,7 @@ docs/
 ## 学习路径
 
 1. [一、宏观架构层](01-architecture.md)
+	- [1.1 数据库集簇专题](01-database-cluster.md)
 2. [二、逻辑存储结构](02-logical-storage.md)
 3. [三、物理存储结构](03-physical-storage.md)
 4. [四、核心机制](04-core-mechanisms.md)
